@@ -1,41 +1,51 @@
-# Awesome Faceless Video Automation: Top AI Video Generators, SaaS & Open-Source Tools
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Faceless Video Automation Banner" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Faceless-Video-Automation/pulls)
+# 🎬 Awesome Faceless Video Automation: Top AI Video Generators, SaaS & Open-Source Tools 🚀
 
-> A curated directory of the best **Faceless Video Automation** tools, AI text-to-video platforms, automated short-form video generators, and open-source pipelines for YouTube Shorts, TikTok, and Instagram Reels.
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Faceless-Video-Automation/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Last updated: October 2026**
+> 💡 A comprehensive, curated directory of the best **Faceless Video Automation** tools, AI text-to-video platforms, automated short-form video generators, and open-source pipelines for YouTube Shorts, TikTok, and Instagram Reels.
 
-Faceless video automation enables creators, digital marketers, and developers to automate the end-to-end video production pipeline—scriptwriting (via LLMs), AI voiceovers (TTS), stock/generative footage curation, dynamic subtitles/captions, and automated multi-platform uploading—without appearing on camera.
+**📅 Last updated: October 2026**
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Components](#key-architectural-components)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & Licensing](#disclaimer--licensing)
+Faceless video automation empowers creators, digital marketers, and developers to automate the end-to-end video production pipeline—scriptwriting (via LLMs 🧠), AI voiceovers (TTS 🎙️), stock/generative footage curation 🎞️, dynamic subtitles/captions ✨, and automated multi-platform uploading 📤—without ever appearing on camera.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global AI video generation and automation market is valued between **$700M and $1.5B+ (scaling to over $2.5B–$6B by 2030 at a 20%–30%+ CAGR)**. The sector demonstrates a dual-layer structure: the underlying foundation diffusion model layer is highly concentrated among heavily capitalized labs, whereas the application and workflow automation layer is **highly fragmented** with dozens of verticalized SaaS tools and open-source content factories competing across social media niches, enterprise training, and programmatic ad generation.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Key Architectural Components](#-key-architectural-components)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer & Licensing](#️-disclaimer--licensing)
 
 ---
 
-## SaaS & Hosted Platforms
+## 📊 Sector Overview & Market Dynamics
+
+The global AI video generation and automation market is valued between **$700M and $1.5B+ (scaling to over $2.5B–$6B by 2030 at a 20%–30%+ CAGR)** 📈. The sector demonstrates a dual-layer structure: the underlying foundation diffusion model layer is highly concentrated among heavily capitalized labs, whereas the application and workflow automation layer is **highly fragmented** 🌐 with dozens of verticalized SaaS tools and open-source content factories competing across social media niches, enterprise training, and programmatic ad generation.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
 
 The table below compares leading commercial hosted platforms for faceless and avatar video automation, sorted in descending order by company size (valuation / annual revenue).
 
 | Platform | Company Size (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Trial Limits | Key Capabilities & Target Workflow |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Synthesia](https://www.synthesia.io/)** | **$4B Valuation** (~$150M ARR) | $29/month ($22/mo billed annually) | Free forever plan: 10 minutes video/month, Synthesia watermark, 9 AI avatars, 720p export | Enterprise-grade AI avatars & digital humans in 140+ languages; training & presentation videos. |
+| **[Synthesia](https://www.synthesia.io/)** | **$4B Valuation** (~$150M ARR) | $29/month ($22/mo billed annually) | Free forever plan: 10 minutes video/month, Synthesia watermark, 9 AI avatars, 720p export | Enterprise-grade AI avatars & digital humans in 140+ languages; corporate training & presentation videos. |
 | **[HeyGen](https://www.heygen.com/)** | **$500M Valuation** (~$200M ARR) | $29/month ($24/mo billed annually) | Free forever plan: 3 videos/month (max 1 min/video), HeyGen watermark, 720p export, 500+ avatars | High-fidelity talking avatars, video translation/dubbing with voice cloning, and interactive video. |
 | **[InVideo AI](https://invideo.io/)** | **$500M Valuation** (~$30M ARR) | $25/month ($20/mo billed annually) | Free forever plan: 10 minutes AI generation/week (~40 min/mo), InVideo watermark, 720p export | Prompt-to-video generation; automatic script generation, stock media assembly, voiceover, and captions. |
 | **[D-ID](https://www.d-id.com/)** | **$100M–$350M Valuation** (~$10M–$35M ARR) | $5.90/month ($4.70/mo billed annually) | 14-day free trial: up to 3 minutes of video generation (limited trial credits), D-ID watermark | Photo-to-talking-avatar animation, streaming conversational AI agents, and personalized video campaigns. |
@@ -49,9 +59,9 @@ The table below compares leading commercial hosted platforms for faceless and av
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Explore the most popular open-source frameworks, video rendering libraries, talking-head engines, and autonomous YouTube Shorts generation bots. Sorted in descending order by GitHub stargazers count.
+Explore the most popular open-source frameworks, video rendering libraries, talking-head engines, and autonomous YouTube Shorts generation bots. Sorted in descending order by GitHub stargazers count ⭐.
 
 | Project | GitHub Stars | Focus / Primary Category | Core Technology & Pipeline Highlights |
 | :--- | :--- | :--- | :--- |
@@ -76,32 +86,51 @@ Explore the most popular open-source frameworks, video rendering libraries, talk
 
 ---
 
-## Key Architectural Components
+## 🧩 Key Architectural Components
 
 When building an enterprise or self-hosted faceless video generation pipeline, typical architectures combine:
 
-1. **Script & Narrative Generation**: Local LLMs via [Ollama](https://ollama.com/) (Llama 3.3, Mistral) or API models (OpenAI GPT-4o, Google Gemini 2.5 Flash, Anthropic Claude 3.5 Sonnet).
-2. **Text-to-Speech (TTS) & Voice Cloning**: [Coqui TTS](https://github.com/coqui-ai/TTS) / [Piper TTS](https://github.com/rhasspy/piper) (offline & private), Microsoft Edge-TTS (free cloud), or ElevenLabs / Cartesia (premium ultra-realistic voices).
-3. **Visual Media Sourcing & AI Generation**: Stock video APIs (Pexels, Pixabay), scraping pipelines (Pinterest), or generative models (Wan 2.1, CogVideoX, HunyuanVideo, Mochi, Runaway Gen-3, Luma Dream Machine).
-4. **Programmatic Video Editing & Compositing**: [Remotion](https://github.com/remotion-dev/remotion) (React-based rendering), MoviePy, or direct [FFmpeg](https://ffmpeg.org/) pipelines.
-5. **Captions & Dynamic Subtitles**: Whisper / WhisperX for word-level timestamps with stylized burning (Hormozi style, karaoke animations, emojis).
-6. **Task Scheduling & Auto-Publishing**: [n8n](https://n8n.io/), Temporal, Celery/Redis queues, and YouTube Data API v3 / TikTok Content Posting API.
+1. **Script & Narrative Generation** 📝: Local LLMs via [Ollama](https://ollama.com/) (Llama 3.3, Mistral) or API models (OpenAI GPT-4o, Google Gemini 2.5 Flash, Anthropic Claude 3.5 Sonnet).
+2. **Text-to-Speech (TTS) & Voice Cloning** 🎙️: [Coqui TTS](https://github.com/coqui-ai/TTS) / [Piper TTS](https://github.com/rhasspy/piper) (offline & private), Microsoft Edge-TTS (free cloud), or ElevenLabs / Cartesia (premium ultra-realistic voices).
+3. **Visual Media Sourcing & AI Generation** 🎨: Stock video APIs (Pexels, Pixabay), scraping pipelines (Pinterest), or generative models (Wan 2.1, CogVideoX, HunyuanVideo, Mochi, Runaway Gen-3, Luma Dream Machine).
+4. **Programmatic Video Editing & Compositing** 🎞️: [Remotion](https://github.com/remotion-dev/remotion) (React-based rendering), MoviePy, or direct [FFmpeg](https://ffmpeg.org/) pipelines.
+5. **Captions & Dynamic Subtitles** 💬: Whisper / WhisperX for word-level timestamps with stylized burning (Hormozi style, karaoke animations, emojis).
+6. **Task Scheduling & Auto-Publishing** 🤖: [n8n](https://n8n.io/), Temporal, Celery/Redis queues, and YouTube Data API v3 / TikTok Content Posting API.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are welcome! Please follow these guidelines:
 
-1. Fork this repository.
-2. Ensure new SaaS additions include specific pricing and exact free tier/trial limit details in the tabular format.
-3. Ensure new open-source repositories include the social star badge linking to their stargazers page.
-4. Submit a Pull Request with a clear summary of your changes.
+1. 🍴 Fork this repository.
+2. ✍️ Ensure new SaaS additions include specific pricing and exact free tier/trial limit details in the tabular format.
+3. ⭐ Ensure new open-source repositories include the social star badge linking to their stargazers page.
+4. 📬 Submit a Pull Request with a clear summary of your changes.
 
 ---
 
-## Disclaimer & Licensing
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Faceless-Video-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Faceless-Video-Automation&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using **Awesome-Faceless-Video-Automation**! If you find this curated ecosystem helpful:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite automated video pipelines or tools.
+- 📢 **Share it** with fellow developers, creators, and automation engineers.
+- ☕ **Buy me a coffee / Sponsor**: If this project saves you time or empowers your video business, consider supporting via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this repository actively maintained and up-to-date! 🙌
+
+---
+
+## ⚖️ Disclaimer & Licensing
 
 - Content and listings are provided for educational and informational purposes.
-- Ensure compliance with terms of service for social platforms (YouTube, TikTok, Instagram) and licensing restrictions for media assets and neural models (e.g. Wav2Lip is non-commercial only).
+- Ensure compliance with terms of service for social platforms (YouTube, TikTok, Instagram) and licensing restrictions for media assets and neural models (e.g., Wav2Lip is non-commercial only).
 - Trademarks belong to their respective owners.
