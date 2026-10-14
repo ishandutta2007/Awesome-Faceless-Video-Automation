@@ -63,7 +63,7 @@ The table below compares leading commercial hosted platforms for faceless and av
 
 Explore the most popular open-source frameworks, video rendering libraries, talking-head engines, and autonomous YouTube Shorts generation bots. Sorted in descending order by GitHub stargazers count ⭐.
 
-| Project | GitHub Stars | Focus / Primary Category | Core Technology & Pipeline Highlights |
+| Project | GitHub_Stars | Focus / Primary Category | Core Technology & Pipeline Highlights |
 | :--- | :--- | :--- | :--- |
 | **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** | [![Stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers) | End-to-End Shorts Generator | Turnkey automation web UI; generates HD vertical videos from a single prompt with multi-LLM, EdgeTTS, and Pexels. |
 | **[Remotion](https://github.com/remotion-dev/remotion)** | [![Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | Programmatic Video Framework | Create videos programmatically using React, HTML/CSS, and WebGL; foundational engine for many commercial video SaaS. |
@@ -105,7 +105,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. 🍴 Fork this repository.
 2. ✍️ Ensure new SaaS additions include specific pricing and exact free tier/trial limit details in the tabular format.
-3. ⭐ Ensure new open-source repositories include the social star badge linking to their stargazers page.
+3. ⭐ Ensure new open-source repositories include the social Stars_Badge linking to their stargazers page.
 4. 📬 Submit a Pull Request with a clear summary of your changes.
 
 ---
