@@ -56,6 +56,7 @@ The table below compares leading commercial hosted platforms for faceless and av
 | **[Virvid](https://virvid.ai/)** | Bootstrapped (~$40k ARR / $3.3k MRR) | $39/month (Lite tier) | Free forever tier: 3 test video drafts/previews, watermark included, requires upgrade for full downloads | Autopilot faceless shorts generator tailored for niche automated social accounts with auto-posting. |
 | **[ShortGenius](https://shortgenius.com/)** | Private / Micro-SaaS | $19/month (Starter tier) | Free forever plan: 3 videos/month, watermark-free previews, access to standard voice and template library | AI-driven short video and UGC ad generation with automated caption styling and split screens. |
 | **[Clipfly](https://www.clipfly.ai/)** | Private / Seed | $19.99/month ($11.99/mo billed annually) | Free forever plan: 15 initial signup credits for basic AI tools and exports with standard watermarking | Web-based AI video editor, still image animator, text-to-video generator, and social media clip maker. |
+| **[FacelessShorts](https://facelessshorts.io/)** | Private / Micro-SaaS | Paid plans (see in-app checkout for current prices) | No free tier stated (review-first library; TikTok uploads default to private) | Self-hosted faceless series studio: scripted, voiced, captioned series for TikTok, Reels, and Shorts with scheduled publishing. |
 
 ---
 
